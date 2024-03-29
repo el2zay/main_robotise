@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T10:31:06.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="ksazV2tEAQgcAZBvMuR1" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-29T10:52:56.568Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="7BE6u8HbyIG-OtpGhlYr" version="24.2.1" type="github">
   <diagram name="Page-1" id="WsBL2SjfoAEha8Ucaz8k">
     <mxGraphModel dx="846" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,8 +13,10 @@
         <mxCell id="aZsAZIokvQd7N0Dv1wfj-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aZsAZIokvQd7N0Dv1wfj-6" target="aZsAZIokvQd7N0Dv1wfj-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aZsAZIokvQd7N0Dv1wfj-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aZsAZIokvQd7N0Dv1wfj-6" target="aZsAZIokvQd7N0Dv1wfj-22">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="aZsAZIokvQd7N0Dv1wfj-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aZsAZIokvQd7N0Dv1wfj-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="151" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aZsAZIokvQd7N0Dv1wfj-6" value="«interface»&lt;br&gt;&lt;b&gt;Main robotisée&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="295" y="60" width="220" height="50" as="geometry" />
@@ -22,11 +24,14 @@
         <mxCell id="aZsAZIokvQd7N0Dv1wfj-20" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Préhension fine&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr style=&quot;border-style:solid;&quot; size=&quot;1&quot;&gt;&lt;div&gt;Pouvoir prendre un objet avec la force nécessaire. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Par exemple : des œufs.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="70" y="150" width="190" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="aZsAZIokvQd7N0Dv1wfj-22" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Pouce&lt;/b&gt;&lt;br&gt;&lt;/p&gt;.&lt;hr style=&quot;border-style:solid;&quot; size=&quot;1&quot;&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="550" y="150" width="190" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="aZsAZIokvQd7N0Dv1wfj-23" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Rotation du poignet&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr style=&quot;border-style:solid;&quot; size=&quot;1&quot;&gt;&lt;div&gt;Permettre la rotation du poignet. Pour avoir panel de mouvements plus élargie.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="310" y="150" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="aZsAZIokvQd7N0Dv1wfj-28" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Pouce&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr style=&quot;border-style:solid;&quot; size=&quot;1&quot;&gt;Permet&amp;nbsp; d&#39;attraper des objets avec plus de facilité et avoir un meilleur maintien.&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="150" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="aZsAZIokvQd7N0Dv1wfj-33" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Matériau&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style:solid;&quot; size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;- Matériau non glissant qui permet d&#39;agripper correctement l&#39;objet en main.&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- &lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="200" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
