@@ -1,11 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T09:46:35.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="8D5jNHRgR_SxtxOPq6Im" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-02T14:19:27.226Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="RyPl2eKhSoK9EkoEPwQK" version="24.3.1" type="github">
   <diagram name="Page-1" id="17I94J7MXUDfeGmA_gm3">
-    <mxGraphModel dx="505" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="733" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4_LmOpfG_umPiCXIRds--1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Préhension&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;Text = &quot;La préhension doit permettre une utilisation presque parfaite de la prothèse.&quot;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="190" y="220" width="140" height="90" as="geometry" />
+        <mxCell id="EqHc6BgqIrxl5njHcsMv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4_LmOpfG_umPiCXIRds--1" target="EqHc6BgqIrxl5njHcsMv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EqHc6BgqIrxl5njHcsMv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4_LmOpfG_umPiCXIRds--1" target="EqHc6BgqIrxl5njHcsMv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_LmOpfG_umPiCXIRds--1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Préhension&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&amp;nbsp;id = &#39;1&#39;&lt;div style=&quot;height:2px;&quot;&gt;&amp;nbsp;Text = &quot;La préhension doit permettre&amp;nbsp; &amp;nbsp;une utilisation presque parfaite de la&amp;nbsp; &amp;nbsp;prothèse.&quot;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="310" y="40" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EqHc6BgqIrxl5njHcsMv-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Vitesse d&#39;action&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&amp;nbsp;id = &#39;1.1&#39;&lt;div style=&quot;height:2px;&quot;&gt;&amp;nbsp;Text = &quot;Le corps humain transmet&amp;nbsp; &amp;nbsp;très rapidement ces demande de&amp;nbsp; &amp;nbsp;mouvement alors la main robotique&amp;nbsp; &amp;nbsp;doit être aussi rapide et précise&amp;nbsp; &amp;nbsp;qu&#39;une main humaine.&quot;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="450" y="170" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EqHc6BgqIrxl5njHcsMv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EqHc6BgqIrxl5njHcsMv-4" target="EqHc6BgqIrxl5njHcsMv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EqHc6BgqIrxl5njHcsMv-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Puissance nécessaire&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&amp;nbsp;id = &#39;1.2&#39;&lt;div style=&quot;height:2px;&quot;&gt;&amp;nbsp;Text = &quot;Pour que la main robotisé&amp;nbsp; &amp;nbsp;soit capable de supporter des&amp;nbsp; &amp;nbsp;masses importante sans lâcher.&quot;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EqHc6BgqIrxl5njHcsMv-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Matériaux&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&amp;nbsp;id = &#39;1.2.1&#39;&lt;div style=&quot;height:2px;&quot;&gt;&amp;nbsp;Text = &quot;La force engendré devra être&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&amp;nbsp;supporter par un matériaux solide et&amp;nbsp; &amp;nbsp;léger qui puisse supporter de&amp;nbsp; &amp;nbsp;multiple effort a répétition.&quot;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="10" y="210" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EqHc6BgqIrxl5njHcsMv-8" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Préhension&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&amp;nbsp;id = &#39;1&#39;&lt;div style=&quot;height:2px;&quot;&gt;&amp;nbsp;Text = &quot;La préhension doit permettre&amp;nbsp; &amp;nbsp;une utilisation presque parfaite de la&amp;nbsp; &amp;nbsp;prothèse.&quot;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="310" width="200" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
