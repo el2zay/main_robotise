@@ -40,4 +40,18 @@ while True:
             angle = 0
         servoFingers(angle) # Faire bouger le servomoteur selon l'angle
         sleep(20) # Pause de 20ms
+
+    if message == "right":
+         angle += 1 # Incrementé 1 à angle
+         if angle >= 170: # Si angle depasse 170 définir angle à 170
+            angle = 170          
+         servoPoignet(angle) # Faire bouger le servomoteur selon l'angle
+         sleep(20) # Pause de 20ms
+
+    if message == "left":
+        angle -= 1 # Décrementé 1 à angle
+        if angle <= 0: # Si angle est en dessous de 0 définir angle à 0
+            angle = 0
+        servoPoignet(angle) # Faire bouger le servomoteur selon l'angle
+        sleep(20) # Pause de 20ms
     
